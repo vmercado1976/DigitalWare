@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalWare.Facturacion.AccesoDatos\DigitalWare.Facturacion.AccesoDatos.csproj" />
+    <ProjectReference Include="..\DigitalWare.Facturacion.Entidades\DigitalWare.Facturacion.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
